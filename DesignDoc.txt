@@ -1,0 +1,16 @@
+Refactoring of TicTacToe AI Project
+
+Clean Code Ch 10: Classes
+
+Single Responsibility Principle
+    Each class should have one responsibility, one reason to change
+
+Classes:
+    Board - State of Board
+    Player - Current player
+    RandomAI
+    WinningMoveAI
+    WinningAndLosingAI
+    MinimaxAI
+    Game - Handles gameplay
+
