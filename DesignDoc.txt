@@ -2,6 +2,8 @@ Refactoring of TicTacToe AI Project
 
 Clean Code Ch 10: Classes
 
+ADD GUI
+
 Single Responsibility Principle
     Each class should have one responsibility, one reason to change
 
