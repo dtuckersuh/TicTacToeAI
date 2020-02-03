@@ -46,12 +46,24 @@ public class BoardGui extends JPanel {
 
             turn++; 
         }
-
+        /**
+         * Button Arrangement
+         * 0 | 1 | 2
+         * 3 | 4 | 5
+         * 6 | 7 | 8
+         */
         public boolean checkForWin(){
             return (horizontalWin() || verticalWin() || diagonalWin());
         }
 
         public boolean horizontalWin(){
+            int rows, col = 3;
+            int count = 0;
+            for (int i = 0; i < rows; i++){
+                for (int j = 0; j < col; j++){
+                    u
+                }
+            }
         }
 
         public boolean verticalWin(){
